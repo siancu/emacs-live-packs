@@ -1552,6 +1552,17 @@ Export as LaTeX, then process through to PDF, and open.
 
 ;;;***
 
+;;;### (autoloads (org-load-noerror-mustsuffix) "org-macs" "org-macs.el"
+;;;;;;  (20719 52699 0 0))
+;;; Generated autoloads from org-macs.el
+
+(autoload 'org-load-noerror-mustsuffix "org-macs" "\
+Load FILE with optional arguments NOERROR and MUSTSUFFIX.  Drop the MUSTSUFFIX argument for XEmacs, which doesn't recognize it.
+
+\(fn FILE)" nil t)
+
+;;;***
+
 ;;;### (autoloads (org-mobile-pull org-mobile-push) "org-mobile"
 ;;;;;;  "org-mobile.el" (20719 17751 0 0))
 ;;; Generated autoloads from org-mobile.el
@@ -2464,7 +2475,7 @@ replace any running timer.
 ;;;***
 
 ;;;### (autoloads (org-git-version org-release) "org-version" "org-version.el"
-;;;;;;  (20719 19378 0 0))
+;;;;;;  (20719 52992 0 0))
 ;;; Generated autoloads from org-version.el
 
 (autoload 'org-release "org-version" "\
