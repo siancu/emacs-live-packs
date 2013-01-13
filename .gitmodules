@@ -1,6 +1,0 @@
-[submodule "dev/solarized-pack"]
-	path = dev/solarized-pack
-	url = https://github.com/siancu/solarized-pack.git
-[submodule "dev/orgmode-pack"]
-	path = dev/orgmode-pack
-	url = https://github.com/siancu/orgmode-pack.git
