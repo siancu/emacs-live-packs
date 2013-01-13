@@ -10,3 +10,6 @@
 [submodule "siancu-pack"]
 	path = siancu-pack
 	url = https://github.com/siancu/siancu-pack.git
+[submodule "evilmode-pack"]
+	path = evilmode-pack
+	url = https://github.com/siancu/evilmode-pack.git
