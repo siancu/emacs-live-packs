@@ -1,3 +1,6 @@
 [submodule "zenburn-pack"]
 	path = zenburn-pack
 	url = https://github.com/siancu/zenburn-pack.git
+[submodule "solarized-pack"]
+	path = solarized-pack
+	url = https://github.com/siancu/solarized-pack.git
