@@ -4,3 +4,6 @@
 [submodule "solarized-pack"]
 	path = solarized-pack
 	url = https://github.com/siancu/solarized-pack.git
+[submodule "orgmode-pack"]
+	path = orgmode-pack
+	url = https://github.com/siancu/orgmode-pack.git
