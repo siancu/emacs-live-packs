@@ -11,7 +11,7 @@
 (live-add-packs '(~/.emacs-live-packs/orgmode-pack))
 
 ;; Evil-mode pack
-;;(live-add-packs '(~/.emacs-live-packs/evilmode-pack))
+(live-add-packs '(~/.emacs-live-packs/evilmode-pack))
 
 ;; siancu pack (has to be at the end as it contains bindings)
 (live-add-packs '(~/.emacs-live-packs/siancu-pack))
